@@ -1,0 +1,14 @@
+#title.primary {
+  font-size: 80px;
+}
+#title {
+  color: red;
+}
+
+/* .container-1 .texts {
+  color: blue;
+} */
+
+.container-1 > .texts {
+  color: red;
+}
